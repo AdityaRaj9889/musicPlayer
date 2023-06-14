@@ -29,6 +29,7 @@ class GlobalPlayer {
     },
     {
       'name': 'Shiva Tandava Stotram Mp3 - Female Version',
+
       'path': 'assets/songs/4.mp3',
       'player': AssetsAudioPlayer(),
       'totalDuration': Duration.zero,

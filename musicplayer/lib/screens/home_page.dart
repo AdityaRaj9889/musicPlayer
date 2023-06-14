@@ -1,10 +1,12 @@
 
 
+
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:musicplayer/global.dart';
 import 'package:musicplayer/screens/player_page.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
+
 
 class MusicHomePage extends StatefulWidget {
   const MusicHomePage({Key? key}) : super(key: key);
@@ -14,6 +16,7 @@ class MusicHomePage extends StatefulWidget {
 }
 
 class _MusicHomePageState extends State<MusicHomePage> {
+
 
   int activeSlider = 0;
   List banners = [
@@ -137,11 +140,13 @@ class _MusicHomePageState extends State<MusicHomePage> {
                       ),
                     ),
                   ),
+
                 ),
               ),
             ),
           ),
         ],
+
       ),
     );
   }
