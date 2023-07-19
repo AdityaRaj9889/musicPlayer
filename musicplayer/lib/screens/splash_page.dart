@@ -5,6 +5,7 @@ import 'package:musicplayer/global.dart';
 import 'package:musicplayer/screens/home_page.dart';
 
 
+
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
 
