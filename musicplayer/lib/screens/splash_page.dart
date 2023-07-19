@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:musicplayer/global.dart';
+import 'package:musicplayer/screens/home_page.dart';
 
 
 class SplashPage extends StatefulWidget {
@@ -50,7 +51,7 @@ class _SplashPageState extends State<SplashPage> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               const Text(
-                "Developed By :",
+                "Powered by :",
                 style: TextStyle(
                   color: GlobalColor.color2,
                   fontSize: 16,
