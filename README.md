@@ -2,8 +2,7 @@
 
 <p align="center">
   <a align="center" href="">
-    <img
-      src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/logo.png"
+    <img src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/logo.png?raw=true"
       width="180px"
       alt="Musician Player logo "
     />
@@ -21,20 +20,17 @@
 <p align="center">
   <img
     title="Splash Screen"
-    alt="Android Splash Screen"
-    src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/as1.png"
+    alt="Android Splash Screen" src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/as1.png?raw=true"
     width="32%"
   />
   <img
     title="Songs List - Home Screen"
-    alt="Android Home screen"
-    src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/as2.png"
+    alt="Android Home screen" src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/as2.png?raw=true"
     width="32%"
   />
   <img
     title="Player Screen"
-    alt='Android Player screen'
-    src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/as3.png"
+    alt='Android Player screen' src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/as3.png?raw=true"
     width="32%"
   />
 </p>
@@ -42,20 +38,17 @@
 <p align="center">
   <img
     title="Splash Screen"
-    alt="ios Splash Screen"
-    src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/is1.png"
+    alt="ios Splash Screen" src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/is1.png?raw=true"
     width="32%"
   />
   <img
     title="Songs List - Home Screen"
-    alt="ios Home screen"
-    src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/is2.png"
+    alt="ios Home screen" src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/is2.png?raw=true"
     width="32%"
   />
   <img
     title="Player Screen"
-    alt='ios Player screen'
-    src="/AdityaRaj9889/musicPlayer/raw/master/screenshots/is3.png"
+    alt='ios Player screen' src="https://github.com/AdityaRaj9889/musicPlayer/blob/main/screenshot/is3.png?raw=true"
     width="32%"
   />
 </p>
